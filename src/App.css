@@ -1,0 +1,8 @@
+.active {
+  color: red;
+  border-bottom: "1px solid red";
+}
+/* before adding the img to the div with the 
+"card-img" class, remove css styles 
+.card-img .img::before and .card-img .img::after,
+then set the desired styles for .card-img. */

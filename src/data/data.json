@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "id": 2,
+    "name": "Samsumg",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "id": 3,
+    "name": "Vinsmart",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "id": 4,
+    "name": "BPhone",
+    "image": "https://picsum.photos/200/300"
+  },
+  {
+    "id": 5,
+    "name": "Nokia",
+    "image": "https://picsum.photos/200/300"
+  }
+]
